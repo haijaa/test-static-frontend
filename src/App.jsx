@@ -19,7 +19,7 @@ function App() {
       <h1>Vite + React</h1>
       <div className="card">
         <p>
-          Lets test the webhook <h2>WOOOHOOO!</h2>
+          Lets test the webhook <h2>ONE MORE CHANGE!</h2>
         </p>
         <p>
           Edit <code>src/App.jsx</code> and save to test HMR
